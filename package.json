@@ -1,0 +1,16 @@
+{
+  "name": "ftst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fastify/static": "^5.0.2",
+    "fastify": "^3.29.3"
+  }
+}
